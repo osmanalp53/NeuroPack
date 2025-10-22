@@ -1,0 +1,13 @@
+streamlit
+opencv-python
+pillow
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+mne
+neurokit2
+scikit-learn
+torch
+openface-python  # (Yüz analizi için)
